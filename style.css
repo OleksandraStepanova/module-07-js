@@ -38,3 +38,9 @@ span {
     border-radius: 8px;
     padding: 4px;
 }
+#box {
+  border: 2px solid blue;
+  width: 10px;
+  height: 10px;
+  margin-bottom: 20px;
+}
